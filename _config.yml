@@ -1,3 +1,138 @@
-theme: jekyll-theme-minimal
-title: John Cooper's Homepage
-description: Test 1 2 3
+# ============================================================
+#  Basic Site Settings
+# ============================================================
+
+title: ""
+description: ""
+url: "https://yourusername.github.io"   # no trailing slash
+baseurl: ""                              # for project pages use "/repo-name"
+
+author:
+  name: "John Cooper"
+  email: "jfcooper2@cs.wisc.edu"
+  github: "jfcooper2"
+
+# ============================================================
+#  Theme Setup (GitHub Pages)
+# ============================================================
+
+remote_theme: "daattali/beautiful-jekyll"
+# remote_theme: "mmistakes/minimal-mistakes"
+# remote_theme: "abhinavs/moonwalk"
+plugins:
+  - jekyll-remote-theme
+
+custom_css: ["assets/css/custom.css"]
+
+# OPTIONAL: if you want local development with GitHub Pages engine
+# plugins:
+#   - github-pages
+#   - jekyll-remote-theme
+
+# ============================================================
+#  Look & Feel
+# ============================================================
+
+# Main color theme ("blue", "green", "purple", "red", "orange", "pink")
+# Leave blank for default
+skin: "blue"
+
+# Change the logo (set empty to disable)
+# logo: "/assets/img/logo.png"
+logo: ""
+
+# Show/hide site title in the navbar
+navbar-title: ""   # empty string hides the text
+
+# ============================================================
+#  Social Icons
+# ============================================================
+
+footer-links:
+  email: "jfcooper2@cs.wisc.edu"
+  github: "jfcooper2"
+  # linkedin: "your-linkedin-profile"
+  # twitter: "your-twitter-handle"
+  # stackoverflow: "your-stackoverflow-id"
+  # facebook: ""
+  # instagram: ""
+  # rss: true
+
+# Alternative block (supports icons too)
+social-network-links:
+  github: "jfcooper2"
+  email: "jfcooper2@cs.wisc.edu"
+
+# ============================================================
+# Navbar Links
+# ============================================================
+
+navbar-links:
+  Home: "/"
+  # About Me: "aboutme"
+  # Projects: "projects"
+  GitHub: "https://github.com/jfcooper2"
+  Email: "jfcooper2@cs.wisc.edu"
+
+# ============================================================
+#  Build Settings
+# ============================================================
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: "/:year/:month/:day/:title"
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# ============================================================
+#  Posts & Collections
+# ============================================================
+
+# Excerpt length on home page
+excerpt_length: 40
+
+# If you want to hide the title on all pages (optional!)
+# show-title: false
+
+# ============================================================
+#  Defaults (helpful templates)
+# ============================================================
+
+defaults:
+  # Default for posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      share-img: "/assets/img/share.jpg"
+
+  # Default for standalone pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      show-title: true
+
+# ============================================================
+#  Optional Advanced Settings
+# ============================================================
+
+# Google Analytics
+# google_analytics: "UA-XXXXXX-X"
+
+# Disqus comments
+# disqus: "your-shortname"
+
+# Build exclusions
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+

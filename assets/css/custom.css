@@ -1,0 +1,52 @@
+/* Permanent Dark Mode for Beautiful Jekyll */
+
+/* Page background and text */
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Navbar */
+.navbar, .navbar-default {
+  background-color: #1e1e1e !important;
+  border-color: #333 !important;
+}
+.navbar a {
+  color: #ddd !important;
+}
+.navbar a:hover {
+  color: #fff !important;
+}
+
+/* Page content box */
+.page-content {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
+}
+
+/* Footer */
+footer {
+  background-color: #1e1e1e !important;
+  color: #ccc !important;
+}
+
+/* Links */
+a {
+  color: #81a2ff !important;
+}
+a:hover {
+  color: #a0c4ff !important;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #222 !important;
+  color: #f8f8f2 !important;
+  border-radius: 5px;
+}
+
+/* Well / cards / paper lists */
+.well {
+  background-color: #222 !important;
+  border-color: #333 !important;
+}
