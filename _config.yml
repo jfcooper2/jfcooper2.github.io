@@ -7,10 +7,14 @@ description: ""
 url: "https://yourusername.github.io"   # no trailing slash
 baseurl: ""                              # for project pages use "/repo-name"
 
-author:
-  name: "John Cooper"
-  email: "jfcooper2@cs.wisc.edu"
-  github: "jfcooper2"
+# author:
+# profile:
+name: "John Cooper"
+email: "jfcooper2@cs.wisc.edu"
+github: "jfcooper2"
+# avatar: /assets/images/personal_photo.jpg
+
+show_sidebar: true
 
 # ============================================================
 #  Theme Setup (GitHub Pages)
@@ -71,8 +75,8 @@ navbar-links:
   Home: "/"
   # About Me: "aboutme"
   # Projects: "projects"
+  Blog: "blog"
   GitHub: "https://github.com/jfcooper2"
-  Email: "jfcooper2@cs.wisc.edu"
 
 # ============================================================
 #  Build Settings
