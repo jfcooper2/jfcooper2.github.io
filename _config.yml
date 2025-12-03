@@ -87,9 +87,14 @@ highlighter: rouge
 
 permalink: "/:year/:month/:day/:title"
 
+use_math: true
+mathjax: true
+
 kramdown:
-  input: GFM
   hard_wrap: false
+  math_engine: mathjax
+  math_engine_opts:
+    use_dollar_sign: true
 
 # ============================================================
 #  Posts & Collections

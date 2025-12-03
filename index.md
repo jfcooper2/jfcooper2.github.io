@@ -10,7 +10,7 @@ title: ""
 </div>
 
 PhD Candidate, Computer Science  
-UW Madison, advised by Fred Sala  
+UW Madison, advised by [Fred Sala](https://pages.cs.wisc.edu/~fredsala/)  
 Email: jfcooper2@cs.wisc.edu · [GitHub](https://github.com/jfcooper2){:target="_blank"} · [Google Scholar](https://scholar.google.com/citations?user=ANaztvcAAAAJ&hl=en){:target="_blank"} · [CV]()
 
 ## About Me
@@ -19,6 +19,7 @@ Hello! I'm a 3rd year PhD student at UW Madison in Fred Sala's group working on 
 I am particularly fond of theoretical machine learning and mechanistic interpretability. Check out some of my recent projects!
 
 ## News
+* *December, 2025:* I'm starting to work on my own blog! It probably won't be very consistent from post to post, but maybe you'll find something interesting eventually!
 * *November, 2025:* Dyah Adila and I posted a new blog about the similarities/differences between fine-tuning and steering. [Take a look!](https://sprocketlab.github.io/posts/2025/11/actvweight/){:target="_blank"}
 
 ## Recent Publications
