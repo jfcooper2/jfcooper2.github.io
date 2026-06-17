@@ -24,8 +24,17 @@ I am particularly fond of theoretical machine learning and mechanistic interpret
 
 ## Recent Publications
 
+* [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](https://arxiv.org/abs/2603.08859){:target="_blank"}, *ICML 2026 Oral*
+***John Cooper***\*, Ilias Diakonikolas, Mingchen Ma\*, Frederic Sala
+
+* [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://arxiv.org/abs/2603.00425){:target="_blank"}, *ICML 2026*
+Dyah Adila\*, ***John Cooper***\*, Alexander Yun, Avi Trost, Frederic Sala
+
+* [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](https://arxiv.org/abs/2501.06708){:target="_blank"}, *ICML 2026*
+Tzu-Heng Huang, Manjot Bilkhu, John Cooper, Frederic Sala, Javier Movellan
+
 * [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881){:target="_blank"}, *ICLR 2026*  
-Changho Shin, ***John Cooper***, Fred Sala
+Changho Shin, ***John Cooper***, Frederic Sala
 
 * [Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition](https://arxiv.org/abs/2410.05603){:target="_blank"}, *ICML 2025 Spotlight*  
 Zheyang Xiong, Ziyang Cai, ***John Cooper***, Albert Ge, Vasilis Papageorgiou, Zack Sifakis, Angeliki Giannou, Ziqian Lin, Liu Yang, Saurabh Agarwal, Grigorios Chrysos, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos
@@ -34,7 +43,7 @@ Zheyang Xiong, Ziyang Cai, ***John Cooper***, Albert Ge, Vasilis Papageorgiou, Z
 ## Pre-print Publications
 
 * [R&B: Domain Regrouping and Data Mixture Balancing for Efficient Foundation Model Training](https://arxiv.org/abs/2505.00358){:target="_blank"}  
-Albert Ge, Tzu-Heng Huang, ***John Cooper***, Avi Trost, Ziyi Chu, Satya Sai Srinath Namburi GNVV, Ziyang Cai, Kendall Park, Nicholas Roberts, Fred Sala
+Albert Ge, Tzu-Heng Huang, ***John Cooper***, Avi Trost, Ziyi Chu, Satya Sai Srinath Namburi GNVV, Ziyang Cai, Kendall Park, Nicholas Roberts, Frederic Sala
 
 
 ## Teaching
