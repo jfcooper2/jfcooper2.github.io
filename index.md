@@ -24,13 +24,13 @@ I am particularly fond of theoretical machine learning and mechanistic interpret
 
 ## Recent Publications
 
-* [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](https://arxiv.org/abs/2603.08859){:target="_blank"}, *ICML 2026 Oral*
+* [Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models](https://arxiv.org/abs/2603.08859){:target="_blank"}, *ICML 2026 Oral*  
 ***John Cooper***\*, Ilias Diakonikolas, Mingchen Ma\*, Frederic Sala
 
-* [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://arxiv.org/abs/2603.00425){:target="_blank"}, *ICML 2026*
+* [Weight Updates as Activation Shifts: A Principled Framework for Steering](https://arxiv.org/abs/2603.00425){:target="_blank"}, *ICML 2026*  
 Dyah Adila\*, ***John Cooper***\*, Alexander Yun, Avi Trost, Frederic Sala
 
-* [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](https://arxiv.org/abs/2501.06708){:target="_blank"}, *ICML 2026*
+* [Evaluating Sample Utility for Efficient Data Selection by Mimicking Model Weights](https://arxiv.org/abs/2501.06708){:target="_blank"}, *ICML 2026*  
 Tzu-Heng Huang, Manjot Bilkhu, John Cooper, Frederic Sala, Javier Movellan
 
 * [Weak-to-Strong Generalization Through the Data-Centric Lens](https://arxiv.org/abs/2412.03881){:target="_blank"}, *ICLR 2026*  
